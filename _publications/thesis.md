@@ -1,5 +1,5 @@
 ---
-title: Co-supervision of the bachelor thesis: "Analyses of neural oscillations and synchrony in the brain"
+title: Co-supervision of the bachelor thesis "Analyses of neural oscillations and synchrony in the brain"
 collection: publications
 permalink: /publication/thesis
 date: 2022-12-15
