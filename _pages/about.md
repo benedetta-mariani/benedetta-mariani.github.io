@@ -19,4 +19,4 @@ I have been studying the brain criticality hypothesis in the rat barrel cortex, 
 I am in general interested in studying collective properties like the oscillatory behavior and synchronization phenomena observed in the barrel cortex during 
 the processing of a sensory input and in understanding their functional role. The understanding of these aspects would enable, as a long term goal, to induce desired oscillations and responses in the barrel cortex, i. e. in a sense to *control* the system.
 
-The methods I am interested in are massive data analysis and computational/mathematical modeling, in order to reverse engineer the origin of the features that we observe in the data.
+The methods I am interested in are massive data analysis and computational/mathematical modeling, in order to reverse engineer the features that we observe in the data.
