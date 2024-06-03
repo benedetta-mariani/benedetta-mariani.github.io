@@ -13,7 +13,7 @@ You can download my full CV [here](https://github.com/benedetta-mariani/benedett
 
 Education
 ======
-* M.S. in Physics of Complex Systems, University of Turin, October 2019
+* M.S. in Physics of Complex Systems, University of Turin, October 2019. [Here](https://github.com/benedetta-mariani/brain-criticality-project/blob/master/Master_Thesis_Benedetta_Mariani.pdf) the Master thesis
 * B.S. in Physics, University of Padova, December 2017
 
 Research experience
