@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a post-doc researcher at the Laboratory of Interdisciplinary Physics ([Liph Lab](https://www.liphlab.com/) and at the [Padova Neuroscience Center](https://pnc.unipd.it), where I obtained my PhD in Neuroscience.
+I'm a post-doc researcher at the Laboratory of Interdisciplinary Physics ([Liph Lab](https://www.liphlab.com/)) and at the [Padova Neuroscience Center](https://pnc.unipd.it), where I obtained my PhD in Neuroscience.
 
 I've got a Master Degree in Physics of Complex Systems from the University of Turin. During my master thesis I've been fascinated by the possible applications of the Physics of Complex Systems to the Computational Neuroscience world, and decided indeed to dive into this field.
 
