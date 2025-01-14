@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in Neuroscience at the [Padova Neuroscience Center](https://pnc.unipd.it) and I am part of the Laboratory of Interdisciplinary Physics ([Liph Lab](https://www.liphlab.com/)) of the University of Padova.
+I'm a post-doc researcher at the Laboratory of Interdisciplinary Physics ([Liph Lab](https://www.liphlab.com/) and at the [Padova Neuroscience Center](https://pnc.unipd.it), where I obtained my PhD in Neuroscience.
 
-I've got a bachelor degree in Physics from the University of Padova and a Master Degree in Physics of Complex Systems from the University of Turin. During my master thesis I've been fascinated by the possible applications of the Physics of Complex Systems to the Computational Neuroscience world, and decided indeed to dive into this field.
+I've got a Master Degree in Physics of Complex Systems from the University of Turin. During my master thesis I've been fascinated by the possible applications of the Physics of Complex Systems to the Computational Neuroscience world, and decided indeed to dive into this field.
 
 I am supervised by [Samir Suweis](https://suweis.github.io/), and collaborate with the laboratory of [Stefano Vassanelli](https://www.vassanellilab.eu/people/) and with [Ramon Guevara Erra](https://loop.frontiersin.org/people/27121/overview).
 
