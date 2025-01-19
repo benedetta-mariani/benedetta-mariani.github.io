@@ -13,7 +13,7 @@ You can download my full CV [here](https://github.com/benedetta-mariani/benedett
 
 Education
 ======
-* PhD in Neuroscience, Padova Neuroscience Center, January 2025. You can find [Here](https://github.com/benedetta-mariani/brain-criticality-project/blob/master/Master%20Thesis%20Benedetta%20Mariani.pdf) my PhD thesis
+* PhD in Neuroscience, Padova Neuroscience Center, January 2025. 
 * M.S. in Physics of Complex Systems, University of Turin, October 2019. [Here](https://github.com/benedetta-mariani/brain-criticality-project/blob/master/Master%20Thesis%20Benedetta%20Mariani.pdf) the Master thesis
 * B.S. in Physics, University of Padova, December 2017
 
