@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my full CV [here](https://github.com/benedetta-mariani/benedetta-mariani.github.io/blob/master/files/CV_MarianiBenedetta.pdf) (updated on: November 2025).
+You can download my full CV [here](https://github.com/benedetta-mariani/benedetta-mariani.github.io/blob/master/files/CV_MarianiBenedetta.pdf) (updated on: March 2026).
 
 Education
 ======
