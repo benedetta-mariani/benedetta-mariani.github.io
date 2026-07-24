@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications and thesis supervisions"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
