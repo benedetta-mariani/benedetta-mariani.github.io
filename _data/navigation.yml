@@ -9,5 +9,8 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "mOU EC pipeline"
+    url: /mOU-EC-pipeline/
+
   - title: "Blog Posts"
     url: /year-archive/
