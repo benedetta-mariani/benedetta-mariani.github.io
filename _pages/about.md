@@ -8,14 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a post-doc researcher at the Laboratory of Interdisciplinary Physics ([Liph Lab](https://www.liphlab.com/)) and at the [Padova Neuroscience Center](https://pnc.unipd.it), where I obtained my PhD in Neuroscience.
+<div id="neural-banner" class="neural-banner">
+  <canvas role="img" aria-label="Neural spike animation: sparse activity alternating with collective bursts" aria-describedby="neural-banner-description"></canvas>
+  <span id="neural-banner-description" class="visually-hidden">Synthetic neural activity from a small excitatory and inhibitory integrate-and-fire network. Recurrent coupling is fixed. The amplitude of a shared thresholded Ornstein-Uhlenbeck input rises and falls slowly. Bursts may be driven by this input. The animation pauses when off screen and respects reduced-motion preferences.</span>
+</div>
+<script src="{{ '/assets/js/neural-banner.js' | relative_url }}" defer></script>
 
-I've got a Master Degree in Physics of Complex Systems from the University of Turin. During my master thesis I've been fascinated by the possible applications of the Physics of Complex Systems to the Computational Neuroscience world, and decided indeed to dive into this field.
-
-I am supervised by [Samir Suweis](https://suweis.github.io/), and collaborate with the laboratory of [Stefano Vassanelli](https://www.vassanellilab.eu/people/) and with [Ramon Guevara Erra](https://loop.frontiersin.org/people/27121/overview).
-
-I have been studying the brain criticality hypothesis in the rat barrel cortex, focusing in particular on studying criticality or deviations thereof in perturbed conditions (see for example [here](https://www.frontiersin.org/articles/10.3389/fnsys.2021.709677/full) and [*here*](https://www.science.org/doi/full/10.1126/sciadv.adj3524)). I've also focused on disentangling the contributions of the external and of the intrinsic network dynamics on the signatures of criticality that we observe in the rat barrel cortex (see for example [here](https://www.nature.com/articles/s41598-022-13686-0)).
-
-I am in general interested in studying collective properties like the oscillatory behavior and synchronization phenomena in the brain and in understanding their functional role. The understanding of these aspects would enable, as a long term goal, to induce desired oscillations and responses, or to suppress the latter (as it is desirable in pathological states such as epilepsy), i. e. in a sense to *control* the system.
-
-The methods I am interested in are massive data analysis and computational/mathematical modeling, in order to reverse engineer the features that emerge from data.
+<p>I’m a postdoctoral researcher at the <a href="https://www.liphlab.com/">Laboratory of Interdisciplinary Physics</a> and the <a href="https://pnc.unipd.it/">Padova Neuroscience Center</a>, with a background in the physics of complex systems. I combine mechanistic modelling and data analysis across scales to uncover the principles underlying neural activity and develop experimentally testable predictions. My research explores how neural dynamics support computation, with a particular interest in criticality, oscillations and synchronization.</p>
