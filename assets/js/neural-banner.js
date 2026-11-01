@@ -88,7 +88,7 @@ class BrunelNetwork {
   if(!ctx)return;
   const regimes=[{name:'SI-like',g:4.5,eta:.8},{name:'AI-like',g:5,eta:2}];
   const network=new BrunelNetwork({N:2500,CE:200,J:.5,...regimes[0],sampleCount:100});
-  const motion=matchMedia('(prefers-reduced-motion: reduce)'),windowSeconds=.3,displayRows=64,phaseMs=800;
+  const motion=matchMedia('(prefers-reduced-motion: reduce)'),windowSeconds=.3,displayRows=48,phaseMs=800;
   const rows=Array.from({length:displayRows},(_,i)=>Math.floor((i+.5)*network.events.length/displayRows));
   for(let k=0;k<1000/network.p.dt;k++)network.step();
   const regimeOrigin=network.stepCount;
@@ -109,9 +109,9 @@ class BrunelNetwork {
     if(canvas.width!==pw||canvas.height!==ph){canvas.width=pw;canvas.height=ph;}
     ctx.setTransform(d,0,0,d,0,0);ctx.clearRect(0,0,w,h);
     const first=clock-windowSeconds,left=2,span=w-4,gap=(h-14)/displayRows;
-    ctx.strokeStyle='#93406f';ctx.lineWidth=1.25;
+    ctx.strokeStyle='#93406f';ctx.lineWidth=1.6;
     for(let j=0;j<displayRows;j++){
-      const y=7+(j+.5)*gap,half=Math.min(1.4,gap*.34);
+      const y=7+(j+.5)*gap,half=Math.min(2,gap*.38);
       ctx.globalAlpha=.72+(j%3)*.12;ctx.beginPath();
       for(const t of network.events[rows[j]]){
         if(t<first||t>clock)continue;
